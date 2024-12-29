@@ -34,3 +34,7 @@ Use AST-based models to generate structural embeddings and then pass them throug
 Summary:
 AST-based models are better for detecting structural clones with synthetic data where the focus is on identifying subtle differences in code logic (e.g., variable renaming, refactoring).
 Siamese networks are better for detecting semantic clones, especially if the code snippets are not just syntactically different but also semantically different, even when the underlying task is the same.
+
+## Future plan
+
+* using the Simhash to detect the duplicate codes and detect from it. Which is called "Locality-sensitive hashing"
