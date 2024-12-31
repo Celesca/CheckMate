@@ -6,3 +6,4 @@ langchain_openai
 langgraph
 langgraph-checkpoint-sqlite
 pygraphviz
+nbformat
