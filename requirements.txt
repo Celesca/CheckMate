@@ -1,2 +1,7 @@
 transformers 
 torch
+python-dotenv
+langchain
+langchain_openai
+langgraph
+langgraph-checkpoint-sqlite
